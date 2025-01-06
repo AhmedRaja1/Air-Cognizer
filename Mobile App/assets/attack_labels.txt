@@ -1,0 +1,5 @@
+Mild Heart Attack
+Moderate Heart Attack
+No Heart Attack
+Proliferative Heart Attack
+Severe Heart Attack

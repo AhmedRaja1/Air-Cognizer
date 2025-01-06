@@ -1,0 +1,21 @@
+{
+    "services":[
+
+        {
+            "title": "Diabetes Hub",
+            "icon": "assets/icons/blood.svg",
+            "route":"/diabetesPredictionView"
+
+            
+        },
+        {
+            "title": "Cardio Vascular Hub",
+            "icon": "assets/icons/heart.svg",
+               "route":"/cardioHub"
+
+            
+        }
+       
+     ]
+
+}

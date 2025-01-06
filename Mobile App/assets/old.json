@@ -1,0 +1,55 @@
+{
+    "services":[
+
+        {
+            "title": "Diabetes Hub",
+            "icon": "assets/icons/mobile-camera.svg",
+            "route":"/diabetesPredictionView"
+
+            
+        },
+        {
+            "title": "Cardio Vascular Hub",
+            "icon": "assets/icons/work-in-progress.svg",
+               "route":""
+
+            
+        },
+        {
+            "title":"Heart\nDisease",
+            "icon": "assets/icons/pulse.svg",
+            "route":""
+
+            
+        },
+
+       {
+        "title": "Lorem\nIpsum",
+    
+            "icon": "assets/icons/work-in-progress.svg",
+            "route":""
+
+          
+        },
+        {
+            "title": "Lorem\nIpsum",
+    
+            "icon": "assets/icons/work-in-progress.svg",
+            "route":""
+
+
+         
+        },
+        {
+            "title": "Lorem\nIpsum",
+    
+            "icon": "assets/icons/work-in-progress.svg",
+            "route":""
+
+             
+        }
+        
+     
+     ]
+
+}

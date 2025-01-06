@@ -1,0 +1,5 @@
+Mild Cardiac Arrest
+Moderate Cardiac Arrest
+No Cardiac Arrest
+Proliferative Cardiac Arrest
+Severe Cardiac Arrest
